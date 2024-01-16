@@ -1,1 +1,1 @@
-# SQL-Query-Projects
+This project is about writing SQL query
