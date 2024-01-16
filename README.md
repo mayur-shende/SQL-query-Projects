@@ -1,1 +1,1 @@
-# SQL-query-Projects
+# SQL-Query-Projects
